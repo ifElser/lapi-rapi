@@ -1,0 +1,22 @@
+{
+  "name": "lapi-rapi",
+  "version": "1.0.0",
+  "description": "Isomorphic, protocol independent RPC",
+  "main": "rapi-lapi.js",
+  "scripts": {
+    "test": "echo \"TODO: tests!!!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relative-chaos/lapi-rapi.git"
+  },
+  "keywords": [
+    "MEM", "relative-chaos", "rapi-lapi", "cryptogenom"
+  ],
+  "author": "js-coder@mail.ru",
+  "license": "SEE LICENSE IN ./MEM",
+  "bugs": {
+    "url": "https://github.com/relative-chaos/lapi-rapi/issues"
+  },
+  "homepage": "https://relative-chaos.github.io"
+}
